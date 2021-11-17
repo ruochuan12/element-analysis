@@ -3,7 +3,7 @@ highlight: darcula
 theme: smartblue
 ---
 
-# 51.2K star 的 element-ui 组件库，开发时如何创建新的组件呢？100多行源码揭秘
+# 每次新增页面复制粘贴？100多行源码的 element-ui 新增组件功能告诉你减少重复工作
 
 ## 1. 前言
 
